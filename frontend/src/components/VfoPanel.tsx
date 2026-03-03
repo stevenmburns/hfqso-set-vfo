@@ -10,7 +10,7 @@ const BANDS: Band[] = [
   { band: '17m', freq: '18.1575', hz: 18157500 },
   { band: '15m', freq: '21.3830', hz: 21383000 },
   { band: '12m', freq: '24.9700', hz: 24970000 },
-  { band: '10m', freq: '28.5700', hz: 28570000 },
+  { band: '10m', freq: '28.4700', hz: 28470000 },
 ]
 
 async function setVfo(hz: number): Promise<void> {

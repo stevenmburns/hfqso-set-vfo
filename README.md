@@ -7,7 +7,7 @@ One-click VFO tuning for the four [HFQSO](https://hfqso.com) activity frequencie
 | 17m  | 18.1575 MHz  |
 | 15m  | 21.3830 MHz  |
 | 12m  | 24.9700 MHz  |
-| 10m  | 28.5700 MHz  |
+| 10m  | 28.4700 MHz  |
 
 ## Prerequisites
 
