@@ -50,6 +50,6 @@ const server = http.createServer((req, res) => {
   })
 })
 
-server.listen(PROXY_PORT, () => {
+server.listen(PROXY_PORT, '127.0.0.1', () => {
   console.log(`flrig proxy listening on :${PROXY_PORT} → ${FLRIG_HOST}:${FLRIG_PORT}`)
 })
